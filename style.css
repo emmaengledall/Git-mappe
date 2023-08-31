@@ -1,1 +1,13 @@
-h1{color: aqua;} 
+h1{color: rgba(0, 0, 255, 0.628); font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+body{background-color: rgba(137, 43, 226, 0.319);} 
+h2{color: rgba(0, 0, 255, 0.62); font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;} 
+p{color: rgba(255, 0, 238, 0.662); font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+font-size:large;} 
+h4{color: rgb(83, 13, 149); font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+
+.sildebensfletning{border-style:double; ;} 
+.Denklassiskefletning{border-style: double;} 
+.Franskfletning{border-style: double;} 
+
+main{margin: 10%;}
