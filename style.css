@@ -6,8 +6,9 @@ font-size:large;}
 h4{color: rgb(83, 13, 149); font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
 
 
-.sildebensfletning{border-style:double; ;} 
+.sildebensfletning{border-style:double; } 
 .Denklassiskefletning{border-style: double;} 
 .Franskfletning{border-style: double;} 
 
 main{margin: 10%;}
+div{align-items: center;} 
