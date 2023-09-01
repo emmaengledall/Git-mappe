@@ -1,14 +1,29 @@
-h1{color: rgba(0, 0, 255, 0.628); font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
-body{background-color: rgba(137, 43, 226, 0.319);} 
-h2{color: rgba(0, 0, 255, 0.62); font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;} 
-p{color: rgba(255, 0, 238, 0.662); font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
-font-size:large;} 
-h4{color: rgb(83, 13, 149); font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+h1{color: rgba(235, 204, 30, 0.732); 
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; text-align: center;}
 
+main {text-align: center;}
 
+body{background-color: rgba(23, 8, 233, 0.698);} 
+
+body{background-image: url(stjernenat-AI.jpeg);
+    background-size: cover;
+background-image: linear-gradient();
+} 
+
+#brødtekst{text-align: center;}
+
+p{color: rgba(235, 204, 30, 0.759); font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+font-size:large; background-color: rgba(15, 16, 16, 0.491);} 
+
+h4{color: rgba(235, 204, 30, 0.92); font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: larger;}
+
+#brødtekst{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-size:x-large;}
 .sildebensfletning{border-style:double; } 
 .Denklassiskefletning{border-style: double;} 
 .Franskfletning{border-style: double;} 
-
+em{
+    color: rgb(235, 205, 30, 0.673); font-size: x-large;
+}
 main{margin: 10%;}
 div{align-items: center;} 
